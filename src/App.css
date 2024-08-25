@@ -6,3 +6,18 @@
 .main-container {
     display: flex;
 }
+
+.check {
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 767px) {
+    .main-container {
+        display: none;
+    }
+}
+
+.cont {
+    display: flex;
+}
