@@ -1,0 +1,28 @@
+.header-container {
+    height: 10vh;
+    background-color: black;
+    width: 96%;
+    margin-left: 50px;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.one-box-heading {
+    color: white;
+    font-size: 24px;
+    font-weight: 400;
+}
+.alignment-container {
+    display: flex;
+    align-items: center;
+
+}
+.workspace-heading{
+    color: white;
+    font-size: 18px;
+    margin-right: 10px;
+}
+.down-icon {
+    color: white
+}
