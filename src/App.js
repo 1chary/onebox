@@ -5,13 +5,7 @@ import SideBar from "./components/SideBar";
 
 function App() {
   return (
-    <div className="main-container">
-      <SideBar />
-      <div className="check">
-        <Header />
-        <Home/>
-      </div>
-    </div>
+    <h1>Welcome to the one box</h1>
   );
 }
 
